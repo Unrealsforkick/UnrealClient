@@ -12,16 +12,16 @@ All previous issues should be solved with the latest release
     - Slayer XP/Drops
     - Foraging/Fishing
 - Farming
-        - Wheat/carrots
-        - Melon/Pumpking 
-        - Potatoes
-        - Netherward
+    - Wheat/carrots
+    - Melon/Pumpking 
+    - Potatoes
+    - Netherward
 - Mining
-        - Mithril
-        - Gemstone
+    - Mithril
+    - Gemstone
 - Dojo
-        - Auto Challanges
-        - Legit/rage mode
+    - Auto Challanges
+    - Legit/rage mode
 # Setup
 ## Server
 Host on a VPS
