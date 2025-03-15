@@ -5,27 +5,22 @@
 All previous issues should be solved with the latest release
 
 # Features
-- Impossible to delete the webhook
-- Good spam protection
-- Grabs
-    - IP
-    - Minecraft Session ID
-    - Discord Tokens from:
-        - Discord
-        - Discord PTB
-        - Discord Canary
-        - Lightcord
-        - Every popular chromium based browser
-    - Saved browser passwords
-    - Cookies
-    - Browser history
-    - Desktop screenshot
-    - Minecraft accounts saved in lunar client
-    - Minecraft accounts saved in essential
-- Bypasses the restrictions on the max allowed key lenght
-- Isn't reliant on any third party file hosting service like [Anonfiles](https://anonfiles.com) or [Gofile](https://gofile.io)
-- Embeds and webhook customizable, no watermark
-
+- Combat
+- QOL
+- Macro's
+    - Slayer XP/Drops
+    - Foraging/Fishing
+    - Farming
+        - Wheat/carrots
+        - Melon/Pumpking 
+        - Potatoes
+        - Netherward
+    - Mining
+        - Mithril
+        - Gemstone
+    - Dojo
+        - Auto Challanges
+        - Legit/rage mode
 # Setup
 ## Server
 Host on a VPS
