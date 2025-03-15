@@ -29,7 +29,7 @@ All previous issues should be solved with the latest release
 # Setup
 ## Webhook 
 #### Create a discord server
-   1. Download the repository
+   1. Load into the game
    2. Create a Discord webhook 
    3. Ingame type the command /uc
    4. Scroll down to 'Misc'
