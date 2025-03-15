@@ -28,7 +28,7 @@ All previous issues should be solved with the latest release
     - Legit/rage mode
 # Setup
 ## Webhook 
-Create a discord server
+#### Create a discord server
    1. Download the repository
    2. Create a Discord webhook 
    3. Ingame type the command /uc
