@@ -6,8 +6,12 @@ All previous issues should be solved with the latest release
 
 # Features
 - Combat
+    - Hub zombies (starter)
+    - Zealots
+    - Summening eye JUJU/Sword
 - AH Flipper (not the best)
-- QOL Mods 
+    - flips at selected price
+    - Auto/Manuel mode
 - Macro's
     - Slayer XP/Drops
     - Foraging/Fishing
