@@ -96,4 +96,4 @@ The config is not reloaded automatically, so you have to restart the server for 
 
 
 
-[get back to the top]([https://github.com/Unrealsforkick/UnrealClient]#)
+[get back to the top] (https://github.com/Unrealsforkick/UnrealClient)
