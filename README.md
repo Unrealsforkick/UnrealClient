@@ -27,13 +27,13 @@ All previous issues should be solved with the latest release
     - Auto Challanges
     - Legit/rage mode
 # Setup
-## Server
-Host on a VPS
+## Webhook 
+Create a discord server
    1. Download the repository
-   2. Put everything inside the `server` folder in any directory on your VPS
-   3. Edit `server/config.json` to your liking
-   4. Install python/pip and all the requirements from `server/requirements.txt`
-   5. Run `server/main.py`
+   2. Create a Discord webhook 
+   3. Ingame type the command /uc
+   4. Scroll down to 'Misc'
+   5. Paste Webbhook in the selection box
 #### OR
 Host on [render](https://render.com)
    1. Make a private fork of this repository (Do NOT click fork on github, you have to download and reupload to a private repo)
