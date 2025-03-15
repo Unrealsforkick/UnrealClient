@@ -7,18 +7,19 @@ All previous issues should be solved with the latest release
 # Features
 - Combat
 - AH Flipper (not the best)
-## Macro's
+- QOL Mods 
+- Macro's
     - Slayer XP/Drops
     - Foraging/Fishing
-    - Farming
+- Farming
         - Wheat/carrots
         - Melon/Pumpking 
         - Potatoes
         - Netherward
-    - Mining
+- Mining
         - Mithril
         - Gemstone
-    - Dojo
+- Dojo
         - Auto Challanges
         - Legit/rage mode
 # Setup
