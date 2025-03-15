@@ -6,8 +6,8 @@ All previous issues should be solved with the latest release
 
 # Features
 - Combat
-- QOL
-- Macro's
+- AH Flipper (not the best)
+## Macro's
     - Slayer XP/Drops
     - Foraging/Fishing
     - Farming
