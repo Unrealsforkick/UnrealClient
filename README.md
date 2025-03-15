@@ -11,7 +11,7 @@ All previous issues should be solved with the latest release
     - Summening eye JUJU/Sword
 - AH Flipper (not the best)
     - flips at selected price
-    - Auto/Manuel mode
+    - Auto/Manual mode
 - Macro's
     - Slayer XP/Drops
     - Foraging/Fishing
