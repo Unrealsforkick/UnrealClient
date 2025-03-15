@@ -34,16 +34,7 @@ All previous issues should be solved with the latest release
    3. Ingame type the command /uc
    4. Scroll down to 'Misc'
    5. Paste Webbhook in the selection box
-#### OR
-Host on [render](https://render.com)
-   1. Make a private fork of this repository (Do NOT click fork on github, you have to download and reupload to a private repo)
-   2. Edit `server/config.json` to your liking
-   3. Create a new render account with the GitHub account you forked the repository with
-   4. Create a new web service
-   5. Select the forked repository
-   6. Put in a name for the service, select main as the branch, `server` as the root directory, Python 3 as runtime, Build command `pip install -r requirements.txt` and Start command `python main.py` or `python3 main.py`
-   7. Wait for the service to build
-## Mod/Client
+#### Mod/Client
    1. Download the repository
    2. Change the Server IP in `scr/main/java/dev/schubilegend/SchubiMod.java` to the IP of your VPS / URL of your render service
    3. Optional: Change the names of the classes/folders to make it look more legit
