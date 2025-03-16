@@ -23,7 +23,8 @@ All previous issues should be solved with the latest release
     - F*CK Diorite
     - M7 decoy route
     - Ghost Pickaxe/Blocks (keybind)
-    - Create Own Decoy route's 
+    - Create Own Decoy route's
+#### AH Flipper  ( `100K - 100M ` )
 
 
 # Setup
