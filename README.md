@@ -92,5 +92,4 @@ The config file reloaded automatically, It saves with every session
 **I am not responsible for any damage caused by this program. This is for educational purposes only. Use at your own risk.**
 
 
-
-![get back to the top] (https://github.com/Unrealsforkick/UnrealClient)
+[get back to the top] (https://github.com/Unrealsforkick/UnrealClient)
