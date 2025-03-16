@@ -27,6 +27,8 @@ All previous issues should be solved with the latest release
 #### AH Flipper  ( `100K - 100M+ ` )
      Auto Mode (Webhook)
      Manual mode (More Profit)
+
+## And many more...
     
 
 
