@@ -31,7 +31,7 @@ All previous issues should be solved with the latest release
     - Decoy routes
     - Ghost pickaxe (Keybind)
     - Ghost Block (Keybind)
-      ####Many more...
+      #### Many more...
 
 
 #### Auto Harp & Auto Exprimantel table
