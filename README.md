@@ -1,95 +1,22 @@
-# Announcing UnrealClient!
+<h1 align = "center">
+	Odin
+</h1>
 
-![UnrealClient](https://github.com/Unrealsforkick/UnrealClient/blob/main/assets/245837716-a212304a-055e-4e1a-8a92-3b53bc4201ab.gif)
-# IMPORTANT
-All previous issues should be solved with the latest release
+<div align="center">
 
-# Features
-#### Auto Harp & Auto Exprimantel table
-- Combat
-    - Hub zombies (starter)
-    - Zealots
-    - Summening eye JUJU/Sword
-- AH Flipper (not the best)
-    - flips at selected price
-    - Auto/Manual mode
-- Macro's
-    - Slayer XP/Drops
-    - Foraging/Fishing
-- Farming
-    - Wheat/carrots
-    - Melon/Pumpking 
-    - Potatoes
-    - Netherward
-- Mining
-    - Mithril
-    - Gemstone
-- Dojo
-    - Auto Challanges
-    - Legit/rage mode
-- F7 features
-    - F*ck Diorite
-    - Decoy routes
-    - Ghost pickaxe (Keybind)
-    - Ghost Block (Keybind)
-      #### Many more...
+[![discord badge](https://img.shields.io/discord/1041616706327552000?label=discord&color=9089DA&logo=discord&style=for-the-badge)](https://discord.gg/2nCbC9hkxT)
+[![downloads](https://img.shields.io/github/downloads/odtheking/Odin/total?style=for-the-badge)](https://github.com/odtheking/Odin)
+[![version](https://img.shields.io/github/v/release/odtheking/Odin?include_prereleases&style=for-the-badge)](https://github.com/odtheking/Odin/releases)
+</div>
+Odin is a forge mod for Hypixel Skyblock on the minecraft version 1.8.9. The mod specializes in Kuudra & Dungeons and offers a bunch of additional features for all parts of Hypixel Skyblock. The mod is also designed to be as lightweight as possible to ensure that it does not impact the game's performance.
 
-# Setup
-## Webhook 
-#### Create a discord server
-   1. Load into the game
-   2. Create a Discord webhook 
-   3. Ingame type the command /uc
-   4. Scroll down to 'Misc'
-   5. Paste Webbhook in the selection box
-#### Mod/Client
-   1. Shortcut G or /uc
-   2. Keyless api service
-   3. Optional: Skip prompt popup if lazy
-   4. Hydra Safe 
+The mod contains two versions which are two separate builds. Using Gradle MultiProject functionality enables us to develop two separate versions of the mod within the same repository while keeping the unique additions to each version separate. If you have any questions regarding the mod, please feel free to ask in the Discord server.
 
+To open the main menu use `/od`, `/odin` or `/odinclient` in chat.
+For extensive command help use `/od help` in chat.
 
-   **Optional: Use discord intergartions**
+We have an installation guide which you can access by clicking [here](https://odtheking.github.io/Odin/installation_guide).
 
-   
+Suggestions and bug reports are welcome, please use the [Discord](https://discord.gg/2nCbC9hkxT) for that.
 
-### If everything works for you please ⭐ this repo to support it ❤️
-
-# Config
-You can customize the menu and the design of the embeds.
-<br>
-The config file reloaded automatically, It saves with every session 
-.
-
-| Name                       | Possible values                 | Description                                                                                                                    |
-|----------------------------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| webhook                    | Any discord webhook URL         | The webhook the info is sent to                                                                                                |
-| webhook_name               | Any string, max 80 characters   | The name the webhook will have when sending the info                                                                           |
-| webhook_avatar             | Any URL to a PNG or JPG file    | The avatar the webhook will have when sending the info                                                                         |
-| message                    | Any string, max 2000 characters | The message the webhook will send with the info. `%IP%` will automatically be replaced with the IP of the client               |
-| codeblock_type             | `small` or `big`                | The type of codeblock used for the embed fields                                                                                |
-| ip_ratelimit               | Any number                      | The number of times a client can send a request before getting rate-limited                                                    |
-| reset_ratelimit_after      | Any number                      | The number of minutes a client has to wait after getting rate-limited before sending another request                           |
-| mc_embed_color             | Any hex color code              | The color of the Minecraft embed                                                                                               |
-| mc_embed_title             | Any string, max 256 characters  | The title of the Minecraft embed                                                                                               |
-| mc_embed_footer_text       | Any string, max 2048 characters | The footer text of the Minecraft embed                                                                                         |
-| mc_embed_footer_icon       | Any URL to a PNG or JPG file    | The footer icon of the Minecraft embed                                                                                         |
-| discord_embed_color        | Any hex color code              | The color of the Discord embed                                                                                                 |
-| discord_embed_title        | Any string, max 256 characters  | The title of the Discord embed                                                                                                 |
-| discord_embed_footer_text  | Any string, max 2048 characters | The footer text of the Discord embed                                                                                           |
-| discord_embed_footer_icon  | Any URL to a PNG or JPG file    | The footer icon of the Discord embed                                                                                           |
-| password_embed_color       | Any hex color code              | The color of the password embed                                                                                                |
-| password_embed_title       | Any string, max 256 characters  | The title of the password embed                                                                                                |
-| password_embed_footer_text | Any string, max 2048 characters | The footer text of the password embed                                                                                          |
-| password_embed_footer_icon | Any URL to a PNG or JPG file    | The footer icon of the password embed                                                                                          |
-| file_embed_color           | Any hex color code              | The color of the file embed                                                                                                    |
-| file_embed_title           | Any string, max 256 characters  | The title of the file embed                                                                                                    |
-| file_embed_footer_text     | Any string, max 2048 characters | The footer text of the file embed                                                                                              |
-| file_embed_footer_icon     | Any URL to a PNG or JPG file    | The footer icon of the file embed                                                                                              |
-| Hydra_Failsafe             | `true` or `false`               | Hydra fail safe if there is an macro check |
-
-# DISCLAIMER
-**I am not responsible for any damage caused by this program. This is for educational purposes only. Use at your own risk.**
-
-
-[get back to the top] (https://github.com/Unrealsforkick/UnrealClient)
+For an organized feature list, check the website [here](https://odtheking.github.io/Odin/feature_list_legit).
