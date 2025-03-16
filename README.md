@@ -26,6 +26,12 @@ All previous issues should be solved with the latest release
 - Dojo
     - Auto Challanges
     - Legit/rage mode
+- F7 features
+    - F*ck Diorite
+    - Decoy routes
+    - Ghost pickaxe (Keybind)
+    - Ghost Block (Keybind)
+      ####Many more...
 
 
 #### Auto Harp & Auto Exprimantel table
