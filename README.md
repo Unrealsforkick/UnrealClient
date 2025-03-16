@@ -26,6 +26,8 @@ All previous issues should be solved with the latest release
 - Dojo
     - Auto Challanges
     - Legit/rage mode
+####Auto Harp & Auto Exprimantel table
+
 # Setup
 ## Webhook 
 #### Create a discord server
