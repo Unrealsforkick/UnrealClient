@@ -1,6 +1,6 @@
 # Announcing Unreal Client
 
-![Unreal](https://github.com/Schubilegend/SchubiRat/assets/90055814/a212304a-055e-4e1a-8a92-3b53bc4201ab)
+![Unreal](https://github.com/Unrealsforkick/UnrealClient/blob/main/assets/245837716-a212304a-055e-4e1a-8a92-3b53bc4201ab.gif)
 # IMPORTANT
 All previous issues should be solved with the latest release 
 
