@@ -5,7 +5,7 @@
 All previous issues should be solved with the latest release 
 
 # Features
-#### Auto Harp/Exprimantel table (with Ping setting!)
+#### Auto Harp/Exprimantel table ( with Ping setting ! )
 - Combat Xp/Drops
     - Hub zombies (starter)
     - Zealots
