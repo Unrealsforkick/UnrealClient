@@ -28,7 +28,7 @@ All previous issues should be solved with the latest release
     - Legit/rage mode
 
 
-####Auto Harp & Auto Exprimantel table
+### Auto Harp & Auto Exprimantel table
 
 # Setup
 ## Webhook 
