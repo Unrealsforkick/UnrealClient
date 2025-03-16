@@ -10,12 +10,12 @@ All previous issues should be solved with the latest release
     - Hub zombies (starter)
     - Zealots/Summoning eye's
 - Slayer
-    - Rev Slayer
-    - Taruntla Slayer
-    - Sven Slayer
-    - ! Newest Blaze Slayer
+    - Rev Slayer (Drops/XP)
+    - Taruntla Slayer (XP)
+    - Sven Slayer (Drops/XP)
+    - ! Newest Blaze Slayer (Drops/XP)
 - Farming
-    - Wheat/Potatoe/Carrots
+    - Wheat/Potatoe/Carrots 
     - Netherwart
     - Pumpking/Melon
     - Auto visitors / Auto Pests
