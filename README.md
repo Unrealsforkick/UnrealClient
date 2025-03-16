@@ -29,7 +29,7 @@ All previous issues should be solved with the latest release
 
 # Setup
 ## Discord Webhook Intergration
-   1. Create a discord webhook
+   1. Create a discord webhook Intergration
    2. Scroll down to 'misc'
    3. Edit `Webhook_Selection` With ur own
    4. To test run the command `/uc webhooktest`
