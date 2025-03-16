@@ -1,8 +1,8 @@
 # Announcing Unreal Client
 
-![Schubi](https://github.com/Schubilegend/SchubiRat/assets/90055814/a212304a-055e-4e1a-8a92-3b53bc4201ab)
+![Unreal](https://github.com/Schubilegend/SchubiRat/assets/90055814/a212304a-055e-4e1a-8a92-3b53bc4201ab)
 # IMPORTANT
-! All previous issues should be solved with the latest release ! 
+All previous issues should be solved with the latest release 
 
 # Features
 #### Auto Harp/Exprimantel table (with Ping setting!)
