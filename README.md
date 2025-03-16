@@ -60,7 +60,7 @@ All previous issues should be solved with the latest release
 # Config
 You can customize the menu and the design of the embeds.
 <br>
-The config is reloaded automatically, It saves with every session 
+The config file reloaded automatically, It saves with every session 
 .
 
 | Name                       | Possible values                 | Description                                                                                                                    |
