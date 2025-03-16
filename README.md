@@ -24,9 +24,10 @@ All previous issues should be solved with the latest release
     - M7 decoy route
     - Ghost Pickaxe/Blocks (keybind)
     - Create Own Decoy route's
-#### AH Flipper  ( `100K - 100M ` )
-     # Auto Mode (Webhook)
-     # Manual mode (More Profit)
+#### AH Flipper  ( `100K - 100M+ ` )
+     Auto Mode (Webhook)
+     Manual mode (More Profit)
+    
 
 
 # Setup
