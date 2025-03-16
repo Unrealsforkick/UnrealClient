@@ -5,7 +5,7 @@
 All previous issues should be solved with the latest release 
 
 # Features
-#### Auto Harp/Exprimantel table ( `1 - 500 ms`)
+#### Auto Harp/Exprimantel table ( `Ping Adjustable`)
 - Combat Xp/Drops
     - Hub zombies (starter)
     - Zealots/Summoning eye's
