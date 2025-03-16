@@ -1,25 +1,29 @@
-# SchubiRat
+# Announcing Unreal Client
 
 ![Schubi](https://github.com/Schubilegend/SchubiRat/assets/90055814/a212304a-055e-4e1a-8a92-3b53bc4201ab)
 # IMPORTANT
-All previous issues should be solved with the latest release
+! All previous issues should be solved with the latest release ! 
 
 # Features
-#### Auto Harp/Exprimantel table
-- Combat
-    - sss
+#### Auto Harp/Exprimantel table (with Ping setting!)
+- Combat Xp/Drops
+    - Hub zombies (starter)
+    - Zealots
 - Slayer
+    - Rev Slayer
+    - Taruntla Slayer
+    - Sven Slayer
+    - ! Newest Blaze Slayer
 - Farming
-    - IP
-    - Minecraft Session ID
-    - Discord Tokens from:
-        - Discord
-        - Discord PTB
-        - Discord Canary
-        - Lightcord
-        - Every popular chromium based browser
-    - Mining
-    - F7 Features
+    - Wheat/Potatoe/Carrots
+    - Netherwart
+    - Pumpking/Melon
+    - Auto visitors / Auto Pests
+- F7 Features
+    - F*CK Diorite
+    - M7 decoy route
+    - Ghost Pickaxe/Blocks (keybind)
+    - Create Own Decoy route
 
 
 # Setup
