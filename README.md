@@ -1,6 +1,6 @@
 # Announcing UnrealClient!
 
-![UnrealClient](https://github.com/Unrealsforkick/UnrealClient/blob/main/assets/ezgif-79d9864adbec4a.gif)
+![UnrealClient](https://github.com/Unrealsforkick/UnrealClient/blob/main/assets/5cfe8140da67d.skyblock-hello.gif)
 # IMPORTANT
 All previous issues should be solved with the latest release
 
