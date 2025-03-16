@@ -25,8 +25,8 @@ All previous issues should be solved with the latest release
     - Ghost Pickaxe/Blocks (keybind)
     - Create Own Decoy route's
 #### AH Flipper  ( `100K - 100M ` )
-    - Auto Mode (Webhook)
-    - Manual mode (More Profit)
+     # Auto Mode (Webhook)
+     # Manual mode (More Profit)
 
 
 # Setup
