@@ -88,7 +88,7 @@ The config file reloaded automatically, It saves with every session
 | file_embed_title           | Any string, max 256 characters  | The title of the file embed                                                                                                    |
 | file_embed_footer_text     | Any string, max 2048 characters | The footer text of the file embed                                                                                              |
 | file_embed_footer_icon     | Any URL to a PNG or JPG file    | The footer icon of the file embed                                                                                              |
-| validate_session           | `true` or `false`               | If requests containing a invalid session id or one that isn't matching the uuid/ign of the minecraft account should be blocked |
+| Hydra_Failsafe             | `true` or `false`               | Hydra fail safe if there is an macro check |
 
 # DISCLAIMER
 **I am not responsible for any damage caused by this program. This is for educational purposes only. Use at your own risk.**
