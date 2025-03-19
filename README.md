@@ -28,7 +28,7 @@ All previous issues should be solved with the latest release
      Auto Mode (Webhook)
      Manual mode (More Profit)
 
-### And many more...
+### And many more... (1.8.9) soon 1.12
     
 
 
