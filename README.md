@@ -3,7 +3,7 @@
 ![Unreal](https://github.com/Unrealsforkick/UnrealClient/blob/main/assets/245837716-a212304a-055e-4e1a-8a92-3b53bc4201ab.gif)
 # IMPORTANT
 All previous issues should be solved with the latest release 
-#### status : 🟢
+#### Current status : 🟢 (working if used safely)
 # Features
 #### Auto Harp/Exprimantel table ( `Ping Adjustable` )
 - Combat Xp/Drops
